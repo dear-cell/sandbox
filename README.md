@@ -1,6 +1,7 @@
 # sandbox
 测试几个流行语言沙箱查杀效果
 以下测试代码全部都是输出hello world
+测试时间：2025年1月
 # zig语言
 
 ![image](https://github.com/user-attachments/assets/713b8814-8cd5-4408-b310-29040ad2706a)
