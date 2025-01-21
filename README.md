@@ -7,7 +7,8 @@
 ![image](https://github.com/user-attachments/assets/713b8814-8cd5-4408-b310-29040ad2706a)
 
 
-![image](https://github.com/user-attachments/assets/0f6809cd-f961-4cb5-98df-a58ab91686d1)
+![image](https://github.com/user-attachments/assets/1e74c8c2-77d7-4e9b-875b-cdd8e38c969e)
+
 
 # Odin语言
 
@@ -21,15 +22,16 @@
 
 # go
 
-![image](https://github.com/user-attachments/assets/530c6129-ca89-48f0-ac7f-0a22bf56cc05)
+![image](https://github.com/user-attachments/assets/3d97dcd5-d546-4bae-aa7c-fb13c7bac5ef)
 
-![image](https://github.com/user-attachments/assets/9c3f3f46-17a6-4513-afde-ae974d272a5a)
+![image](https://github.com/user-attachments/assets/b4a24089-3b7b-4bb0-98b5-a4c88be63267)
 
 # c
 
 常规编译gcc .\1.c -o c.exe
 
-![image](https://github.com/user-attachments/assets/5ccf84c2-4751-46d7-858b-301846709f43)
+![image](https://github.com/user-attachments/assets/19d531a2-0fb8-4467-b482-203614ae3356)
+
 
 ![image](https://github.com/user-attachments/assets/faa84110-f13b-4d0e-9f44-312208b44e06)
 
@@ -45,7 +47,8 @@
 
 常规编译csc 1.c
 
-![image](https://github.com/user-attachments/assets/8e32a603-ca02-4752-ba27-130db0547f53)
+![image](https://github.com/user-attachments/assets/8bb366f7-6e74-4215-9c7d-b79ae762ec85)
+
 
 ![image](https://github.com/user-attachments/assets/8f8c5994-33f7-4ffd-adea-66aa07122fbd)
 
